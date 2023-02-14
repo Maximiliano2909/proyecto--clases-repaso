@@ -16,6 +16,7 @@ console.log(string1+" "+string2+string3);
 
 const nombreUsuario = prompt("Ingresa tu nombre");
 alert("Bienvenido"+nombreUsuario)
-
+console.log(nombreUsuario);
 const ingresaEmail = prompt("ingresa tu email")
 alert("Gracias" +ingresaEmail)
+console.log(ingresaEmail);
